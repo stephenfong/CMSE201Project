@@ -1,3 +1,3 @@
 # CMSE201Project
 
-End of the semester project in 04/2021
+End of the semester project from 04/2021
